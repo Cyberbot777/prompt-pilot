@@ -1,6 +1,6 @@
 # PromptPilot Production Notes
 
-**Project Status:** Updated June 26, 2025
+**Project Status:** Updated Juky 4, 2025
 
 ---
 
@@ -139,3 +139,17 @@ This document details:
   https://www.prompt-pilot.ai
 
 ---
+
+## Upcoming Feature: Prompt Tudor (v2.5+)
+
+Prompt Tudor is an experimental new feature planned for PromptPilot that allows users to analyze and optimize their prompts before submitting them to GPT or Claude models.
+
+Powered by the **Iris Agent (Phase 1)** — originally developed in the Prompt Fractal project — Prompt Tudor will:
+- Review prompts for clarity, length, and ambiguity.
+- Provide a professional analysis with a clarity rating and specific improvement suggestions.
+- Automatically generate a fully rewritten, more effective version of the prompt.
+
+This feature will help users refine unclear or overly complex prompts to improve model outputs, ensuring LLM responses are more relevant, respectful, and actionable.
+
+**Status:**  
+Prompt Tudor backend logic is already integrated and available for future UI wiring and testing.
